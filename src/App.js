@@ -11,7 +11,8 @@ import Contact from './components/Pages/Contact';
 function App() {
   return (
     <>
-      <Router>
+
+      <Router basename="/Emanuels-Reactive-Portfolio">
 
       <HamburgerNav/>
 
