@@ -1,0 +1,44 @@
+
+li{
+    list-style: none;
+}
+
+.portfolio-container{
+   padding-top: 300px;
+   width: 140%;
+   height: 113%;
+   margin-left: -13.5%;
+}
+
+.purple-bg{
+  background-color: purple !important;
+}
+
+p{
+  font-weight: 500;
+}
+
+
+/* @media only screen and (max-width:1100px){
+    .portfolio-container{
+      width: 50%;
+    }
+   } */
+@media only screen and (max-width:767px){
+    .portfolio-container{
+      font-size: 3.5rem;
+      padding-top: 1500px;
+    }
+   }
+@media only screen and (max-width:600px){
+    .portfolio-container{
+      font-size: 3rem;
+      padding-top: 1200px;
+    }
+   }
+@media only screen and (max-width:450px){
+    .portfolio-container{
+      font-size: 3rem;
+      padding-top: 1100px;
+    }
+   }
