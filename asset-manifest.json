@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Emanuels-Reactive-Portfolio/static/css/main.8afbb4d6.css",
-    "main.js": "/Emanuels-Reactive-Portfolio/static/js/main.54913557.js",
-    "static/js/787.bc7d429a.chunk.js": "/Emanuels-Reactive-Portfolio/static/js/787.bc7d429a.chunk.js",
+    "main.css": "/Emanuels-Reactive-Portfolio/static/css/main.03add5b2.css",
+    "main.js": "/Emanuels-Reactive-Portfolio/static/js/main.84f42879.js",
+    "static/js/787.eb157446.chunk.js": "/Emanuels-Reactive-Portfolio/static/js/787.eb157446.chunk.js",
     "static/media/Emanuel-blossom.jpg": "/Emanuels-Reactive-Portfolio/static/media/Emanuel-blossom.e034ab27ce98f3876ff2.jpg",
     "static/media/Emojify project.png": "/Emanuels-Reactive-Portfolio/static/media/Emojify project.61df1dca6f1ed66b58b6.png",
     "static/media/Insomnia.png": "/Emanuels-Reactive-Portfolio/static/media/Insomnia.14d8d95d2fb8da81d5eb.png",
@@ -31,12 +31,12 @@
     "static/media/cssLogo.png": "/Emanuels-Reactive-Portfolio/static/media/cssLogo.463e319bad8e0edf1ef7.png",
     "static/media/bootstrap.png": "/Emanuels-Reactive-Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
     "index.html": "/Emanuels-Reactive-Portfolio/index.html",
-    "main.8afbb4d6.css.map": "/Emanuels-Reactive-Portfolio/static/css/main.8afbb4d6.css.map",
-    "main.54913557.js.map": "/Emanuels-Reactive-Portfolio/static/js/main.54913557.js.map",
-    "787.bc7d429a.chunk.js.map": "/Emanuels-Reactive-Portfolio/static/js/787.bc7d429a.chunk.js.map"
+    "main.03add5b2.css.map": "/Emanuels-Reactive-Portfolio/static/css/main.03add5b2.css.map",
+    "main.84f42879.js.map": "/Emanuels-Reactive-Portfolio/static/js/main.84f42879.js.map",
+    "787.eb157446.chunk.js.map": "/Emanuels-Reactive-Portfolio/static/js/787.eb157446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8afbb4d6.css",
-    "static/js/main.54913557.js"
+    "static/css/main.03add5b2.css",
+    "static/js/main.84f42879.js"
   ]
 }
