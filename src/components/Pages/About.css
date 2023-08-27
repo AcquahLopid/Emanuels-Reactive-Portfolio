@@ -114,10 +114,13 @@ html, body{
   flex-direction: row;
   justify-content: center;
 } */
+.skillHeader{
+   font-size:30px; font-weight:300; color:white; letter-spacing:2px;
+}
 
 .skills h3 {
   text-align: center;
-  font-size:30px; font-weight:300; color:white; letter-spacing:2px;
+  /* font-size:30px; font-weight:300; color:white; letter-spacing:2px; */
   text-transform: uppercase;
   
   display: grid;
@@ -228,9 +231,14 @@ html, body{
   .aboutP{
     /* width: 60%; */
     font-size: 8px;
-    padding-right: 100px;
+    padding-right: 20px;
+  }
+  .skillHeader{
+    font-size: 10px;
   }
    }
+
+
   @media only screen and (max-width:320px){
     section.container{
       display: flex;
@@ -258,9 +266,28 @@ html, body{
     padding-right: 50px;
     font-size: 8px;
   }
-  .skills h3{
-    font-size: 20px;
+  .skills{
+    width: 200%;
   }
+  #langGrid {
+  grid-template-columns: repeat(5, 41%);
+  grid-template-rows: repeat(1, 60%);
+  }
+  #FrameworkGrid {
+  grid-template-columns: repeat(5, 41%);
+  grid-template-rows: repeat(1, 60%);
+  }
+  #DatabaseGrid {
+  grid-template-columns: repeat(5, 41%);
+  grid-template-rows: repeat(1, 60%);
+  }
+  #ToolsGrid {
+  grid-template-columns: repeat(5, 41%);
+  grid-template-rows: repeat(1, 60%);
+  }
+  /* .skillHeader{
+    font-size: 10px;
+  } */
    }
   @media only screen and (max-width:280px){
     section.container{

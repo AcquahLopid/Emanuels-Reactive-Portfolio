@@ -72,7 +72,7 @@ const About = () => {
 <div className="EmanuelSkills">
 {/* Languages section */}
     <div className="skills">
-    <h3>Languages</h3>
+    <h3 className="skillHeader">Languages</h3>
     </div>
     <br/>
     <div id="langGrid">
@@ -103,7 +103,7 @@ const About = () => {
 
 {/* Databases Section */}
     <div className="skills">
-    <h3>DataBases</h3>
+    <h3 className="skillHeader">DataBases</h3>
     </div>
     <br/>
     <div id="DatabaseGrid">
@@ -123,7 +123,7 @@ const About = () => {
 
 {/* Frameworks section */}
     <div className="skills">
-    <h3>Frameworks</h3>
+    <h3 className="skillHeader">Frameworks</h3>
     </div>
     <br/>
     <div id="FrameworkGrid">
@@ -167,7 +167,7 @@ const About = () => {
 
 {/* Tools Section */}
     <div className="skills">
-    <h3>Tools</h3>
+    <h3 className="skillHeader">Tools</h3>
     </div>
     <br/>
     <div id="ToolsGrid">
