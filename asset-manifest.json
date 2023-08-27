@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Emanuels-Reactive-Portfolio/static/css/main.8afbb4d6.css",
+    "main.js": "/Emanuels-Reactive-Portfolio/static/js/main.54913557.js",
+    "static/js/787.bc7d429a.chunk.js": "/Emanuels-Reactive-Portfolio/static/js/787.bc7d429a.chunk.js",
+    "static/media/Emanuel-blossom.jpg": "/Emanuels-Reactive-Portfolio/static/media/Emanuel-blossom.e034ab27ce98f3876ff2.jpg",
+    "static/media/Emojify project.png": "/Emanuels-Reactive-Portfolio/static/media/Emojify project.61df1dca6f1ed66b58b6.png",
+    "static/media/Insomnia.png": "/Emanuels-Reactive-Portfolio/static/media/Insomnia.14d8d95d2fb8da81d5eb.png",
+    "static/media/C2C Screenshot.png": "/Emanuels-Reactive-Portfolio/static/media/C2C Screenshot.b3196ffd7f99fa98627a.png",
+    "static/media/Work Day Scheduler Screenshot.png": "/Emanuels-Reactive-Portfolio/static/media/Work Day Scheduler Screenshot.850c30d80e57d1dcd5f0.png",
+    "static/media/EmanuelResume.pdf": "/Emanuels-Reactive-Portfolio/static/media/EmanuelResume.1680a95a46e3bc0e704b.pdf",
+    "static/media/Password generator.png": "/Emanuels-Reactive-Portfolio/static/media/Password generator.745834201bc637d441c8.png",
+    "static/media/MongoDB.png": "/Emanuels-Reactive-Portfolio/static/media/MongoDB.95ebe78cca60e67709b4.png",
+    "static/media/Apollo.png": "/Emanuels-Reactive-Portfolio/static/media/Apollo.03700dffacda5b2af651.png",
+    "static/media/ajax-logo-1.png": "/Emanuels-Reactive-Portfolio/static/media/ajax-logo-1.eb02cc3b87ea364a8880.png",
+    "static/media/NoteTakerScreenshot.png": "/Emanuels-Reactive-Portfolio/static/media/NoteTakerScreenshot.0359a059d5a3cd7f6afb.png",
+    "static/media/react.png": "/Emanuels-Reactive-Portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/github (1).png": "/Emanuels-Reactive-Portfolio/static/media/github (1).8b4b2cb3f7040c3f4e4f.png",
+    "static/media/githubLogo.png": "/Emanuels-Reactive-Portfolio/static/media/githubLogo.8b4b2cb3f7040c3f4e4f.png",
+    "static/media/nodejs.png": "/Emanuels-Reactive-Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/command-line.png": "/Emanuels-Reactive-Portfolio/static/media/command-line.4b8e3876b7ee219b6892.png",
+    "static/media/Dev-Tools.png": "/Emanuels-Reactive-Portfolio/static/media/Dev-Tools.7d04c74a1b6fd99746b6.png",
+    "static/media/mysql.png": "/Emanuels-Reactive-Portfolio/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/Java.png": "/Emanuels-Reactive-Portfolio/static/media/Java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/Postman.webp": "/Emanuels-Reactive-Portfolio/static/media/Postman.22088e1d4d9e98cb62b3.webp",
+    "static/media/git.png": "/Emanuels-Reactive-Portfolio/static/media/git.63b94516b0c8926a967f.png",
+    "static/media/GraphQL.png": "/Emanuels-Reactive-Portfolio/static/media/GraphQL.37d2de01c2cda3f288d8.png",
+    "static/media/medium.png": "/Emanuels-Reactive-Portfolio/static/media/medium.1a0861837dbd0b3481e6.png",
+    "static/media/redux.png": "/Emanuels-Reactive-Portfolio/static/media/redux.5c7f84abcf16d13bb375.png",
+    "static/media/javascriptES6.png": "/Emanuels-Reactive-Portfolio/static/media/javascriptES6.78206ba65e01c7d57080.png",
+    "static/media/cssLogo.png": "/Emanuels-Reactive-Portfolio/static/media/cssLogo.463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap.png": "/Emanuels-Reactive-Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "index.html": "/Emanuels-Reactive-Portfolio/index.html",
+    "main.8afbb4d6.css.map": "/Emanuels-Reactive-Portfolio/static/css/main.8afbb4d6.css.map",
+    "main.54913557.js.map": "/Emanuels-Reactive-Portfolio/static/js/main.54913557.js.map",
+    "787.bc7d429a.chunk.js.map": "/Emanuels-Reactive-Portfolio/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8afbb4d6.css",
+    "static/js/main.54913557.js"
+  ]
+}
