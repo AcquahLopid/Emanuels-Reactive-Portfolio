@@ -134,17 +134,41 @@ const Portfolio = () => (
                 </div>
             </div>
         </div>
-                {/* <div className="col">
-            <div className="card bg-success h-100 overflow-hidden d-flex flex-column">
-                <img src={Emojify} className="rounded-bottom-4 card-img-top" alt="Another Project" />
+            <div className="col">
+            <div className="card purple-bg h-100 overflow-hidden d-flex flex-column">
+                <img src={NoteTaker} className="rounded-bottom-4 card-img-top" alt="Another Project" />
                 <div className="card-body d-flex flex-column">
-                    <h5 className="card-title fs-2">Another Project</h5>
-                    <p className="card-text fs-4"> hello</p>
+                    <h5 className="card-title fs-2">Simple Platformer</h5>
+                    <p className="card-text fs-4">
+                        first project crested using Phaser.js
+                    the character moves when using the arrow keys, can collect diamonds. when all 
+                    diamonds are collected one enemy spawn. this process can be repeated
+                    </p>
                     <div className="d-grid gap-2 mt-auto">
-                        <button className="btn btn-light" type="button" onClick={() => (window.location.href = "https://another-project-deployed-site/")}>
+                        <button className="btn btn-light" type="button" onClick={() => window.open("https://acquahlopid.github.io/Platformer/", "_blank", "noopener noreferrer")}>
                             Deployed Site
                         </button>
-                        <button className="btn btn-light" type="button" onClick={() => (window.location.href = "https://github.com/username/another-project")}>
+                        <button className="btn btn-light" type="button" onClick={() => window.open("https://github.com/AcquahLopid/Platformer", "_blank", "noopener noreferrer")}>
+                            Repository
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+                {/* <div className="col">
+            <div className="card bg-success h-100 overflow-hidden d-flex flex-column">
+                <img src={Platformer} className="rounded-bottom-4 card-img-top" alt="Another Project" />
+                <div className="card-body d-flex flex-column">
+                    <h5 className="card-title fs-2">Simple Platformer</h5>
+                    <p className="card-text fs-4"> first project crested using Phaser.js
+                    the character moves when using the arrow keys, can collect diamonds. when all 
+                    diamonds are collected one enemy spawn. this process can be repeated
+                    </p>
+                    <div className="d-grid gap-2 mt-auto">
+                        <button className="btn btn-light" type="button" onClick={() => window.open("https://young-waters-35716.herokuapp.com/", "_blank", "noopener noreferrer")}>
+                            Deployed Site
+                        </button>
+                        <button className="btn btn-light" type="button" onClick={() => window.open("https://young-waters-35716.herokuapp.com/", "_blank", "noopener noreferrer")}>
                             Repository
                         </button>
                     </div>
