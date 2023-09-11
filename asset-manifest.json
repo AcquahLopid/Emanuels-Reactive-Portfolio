@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Emanuels-Reactive-Portfolio/static/css/main.4c58ec21.css",
-    "main.js": "/Emanuels-Reactive-Portfolio/static/js/main.414e515b.js",
+    "main.js": "/Emanuels-Reactive-Portfolio/static/js/main.896a29cf.js",
     "static/js/787.eb157446.chunk.js": "/Emanuels-Reactive-Portfolio/static/js/787.eb157446.chunk.js",
     "static/media/Emanuel-blossom.jpg": "/Emanuels-Reactive-Portfolio/static/media/Emanuel-blossom.e034ab27ce98f3876ff2.jpg",
     "static/media/Emojify project.png": "/Emanuels-Reactive-Portfolio/static/media/Emojify project.61df1dca6f1ed66b58b6.png",
@@ -32,11 +32,11 @@
     "static/media/bootstrap.png": "/Emanuels-Reactive-Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
     "index.html": "/Emanuels-Reactive-Portfolio/index.html",
     "main.4c58ec21.css.map": "/Emanuels-Reactive-Portfolio/static/css/main.4c58ec21.css.map",
-    "main.414e515b.js.map": "/Emanuels-Reactive-Portfolio/static/js/main.414e515b.js.map",
+    "main.896a29cf.js.map": "/Emanuels-Reactive-Portfolio/static/js/main.896a29cf.js.map",
     "787.eb157446.chunk.js.map": "/Emanuels-Reactive-Portfolio/static/js/787.eb157446.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c58ec21.css",
-    "static/js/main.414e515b.js"
+    "static/js/main.896a29cf.js"
   ]
 }
